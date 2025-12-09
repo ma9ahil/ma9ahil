@@ -15,7 +15,7 @@
 
 ## 🔑 About my profile
 
-I’ve worked with a variety of ML models such as **U-Net**, **EfficientNet**, **YOLO**, and **MobileNet variants** (for mobile AI), and I enjoy building real projects, testing **Kaggle datasets**, and exploring how models behave in different environments. Some of the projects in my profile were created as **pair or team projects** for my university coursework, while others are **self-driven experiments** where I explored new datasets or tried out different ML techniques. I love learning and experimenting with new tools—from **frontend frameworks** to **NLP stemming pipelines**, and from **model engineering** to **full-stack development**.
+I’ve worked with a variety of ML models such as **U-Net**, **EfficientNet**, **YOLO**, and **MobileNet variants** (for mobile AI), and I enjoy building real projects, testing **Kaggle datasets**, and exploring how models behave in different environments. Some of the projects in my profile were created as **pair or team projects** for my university coursework, while others are **self-driven experiments** where I explored new datasets or tried out different ML techniques. I love learning and experimenting with new tools—from **frontend frameworks** to **mini search engine**, and from **model engineering** to **full-stack development**.
 
 
 # 🌟 Highlighted Projects
